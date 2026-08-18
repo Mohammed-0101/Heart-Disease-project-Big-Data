@@ -7,6 +7,8 @@
   <li>MongoDB</li>
   <li>Python</li>
   <li>Pywebio</li>
+  <li>Random Forest</li>
+  <li>DataPrep</li>
 </ul>
 
 <h2>Steps</h2>
