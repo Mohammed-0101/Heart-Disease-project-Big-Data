@@ -1,6 +1,7 @@
-<h1>Heart Disease Big Data</h1>
+<h1>Heart Disease Prediction & Big Data</h1>
 
-<p>this project aims to make website , it can control on database was created in MongoDB.</p>
+<p>this project aims to make website , it can control on database was created in MongoDB 
+  and make Visualization & Prediction of Heart Disease.</p>
 
 <h2>Features</h2>
 <ul>
